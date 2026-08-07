@@ -1,6 +1,6 @@
 All the Dev-boards i'll ever need and want!
 
-I want to make a lot of useful boards for my future projects, one small step at a time.
+I want to make a lots of useful boards for my future projects, one small step at a time.
 
 |Name|MCU|Purpose|Pic|Size(mm)|Stats|
 | --- | --- | --- | --- | --- | --- |
